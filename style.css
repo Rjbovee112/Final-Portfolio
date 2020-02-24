@@ -1,0 +1,7 @@
+html { 
+    background: url(/assets/pexels-photo-1061623gregtrees.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
