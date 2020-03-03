@@ -20,17 +20,17 @@ html {
 }
 
 .navbar .nav-link {
-  color: #fff;
+  color: whitesmoke;
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
-  color: #fff;
+  color: whitesmoke;
   text-decoration: none;
 }
 
 .navbar .navbar-brand {
-  color: #fff;
+  color: whitesmoke;
 }
 
 

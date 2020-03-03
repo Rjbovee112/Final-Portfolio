@@ -1,5 +1,5 @@
 html { 
-  background: url(/assets/red-leaf-tree-715134.jpg) no-repeat center center fixed; 
+  background: url(/assets/autumn-autumn-colours-brown-countryside-358238.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,39 +20,21 @@ html {
 }
 
 .navbar .nav-link {
-  color: #fff;
+  color: whitesmoke;
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
-  color: #fff;
+  color: whitesmoke;
   text-decoration: none;
 }
 
 .navbar .navbar-brand {
-  color: #fff;
+  color: whitesmoke;
 }
 
 
-/* Change navbar styling on scroll */
-.navbar.active {
-  background: #fff;
-  box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
-}
 
-.navbar.active .nav-link {
-  color: #555;
-}
-
-.navbar.active .nav-link:hover,
-.navbar.active .nav-link:focus {
-  color: #555;
-  text-decoration: none;
-}
-
-.navbar.active .navbar-brand {
-  color: #555;
-}
 
 footer{
   height: 120px;
