@@ -54,4 +54,24 @@ html {
   color: #555;
 }
 
+footer{
+  height: 120px;
+  display: flex;
+  width: 100%;
+}
+.foot-icons{ /* div */
+  height: 100%;
+  display: flex;
+  padding: auto 7rem;
+  justify-content: center;
+}
+.icons{
+  height: 40%;
+  width: auto;
+  margin: auto 20px;
+}
+.row{
+  margin: 0;
+}
+
 
