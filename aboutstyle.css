@@ -6,14 +6,7 @@ html {
     background-size: cover;
   }
 
-  .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color: black;
-    text-align: center;
-  }
+ /* NAV BAR */
 
   .navbar {
     transition: all 0.4s;
@@ -34,7 +27,7 @@ html {
 }
 
 
-
+/* FOOTER */
 
 footer{
     height: 120px;
@@ -55,6 +48,44 @@ footer{
   .row{
     margin: 0;
   }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+  }
+
+  /* MAIN BODY */
+
+  body {
+  
+  }
+
+
+  .jumbotron {
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    padding: 2px;
+    border: red solid 2px;
+}
+
+.insideJT {
+    font-weight: bold;
+    font-size: large;
+    color: black;
+}
+
+
+#pic{
+    border-radius: 15px;
+    padding: 10px;
+    border: violet soild 2px;
+}
   
 
 
