@@ -59,33 +59,20 @@ footer{
   }
 
   /* MAIN BODY */
-
-  body {
-  
+  .row {
+    margin-top: 200px;
+    display: inline-block;
   }
 
-
-  .jumbotron {
-    margin-top: 200px;
-    margin-right: 200px;
-    margin-left: 200px;
-    margin-bottom: 100px;
-    padding: 2px;
-    border: red solid 2px;
-}
-
-.insideJT {
-    font-weight: bold;
-    font-size: large;
-    color: black;
-}
-
-
-#pic{
-    border-radius: 15px;
-    padding: 10px;
-    border: violet soild 2px;
-}
-  
+  #me {
+    margin-top: 75px;
+    max-width: 75%;
+    height: auto;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    border-radius: 50%;
+  }
 
 
