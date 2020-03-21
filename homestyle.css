@@ -6,14 +6,7 @@ html {
   background-size: cover;
 }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: black;
-  text-align: center;
-}
+/* Nav Bar */
 
 .navbar {
   transition: all 0.4s;
@@ -34,7 +27,7 @@ html {
 }
 
 
-
+/* footer */
 
 footer{
   height: 120px;
