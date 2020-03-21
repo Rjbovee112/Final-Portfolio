@@ -27,8 +27,6 @@ html {
 }
 
 
-/* footer */
-
 footer{
   height: 120px;
   display: flex;
@@ -47,13 +45,9 @@ footer{
 }
 .row{
   margin: 0;
-}
-
-
-.underConst {
-  background: red;
   text-align: center;
 }
+
 
 
 
