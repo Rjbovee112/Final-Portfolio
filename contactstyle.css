@@ -115,3 +115,11 @@ footer{
 .footer-row {
   margin-top: 55rem;
   }
+
+  b {
+    font-weight: bolder;
+    text-align: center;
+    font-size: x-large;
+    text-shadow: 0 0 3px black;
+    color: white;
+  }
