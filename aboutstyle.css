@@ -56,7 +56,7 @@ footer{
 
   /* MAIN BODY */
   .row {
-    margin-top: 250px;
+    margin-top: 175px;
   }
 
   #me {
@@ -67,11 +67,11 @@ footer{
     display: block;
     border-radius: 50%;
     margin: 0 auto;
+    margin-top: 75px;
 
   }
 
   p {
-    padding-top: 50px;
     font-weight: bolder;
     text-align: center;
     font-size: x-large;
