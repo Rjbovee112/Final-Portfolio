@@ -1,0 +1,24 @@
+{
+  "name": "finalprofile",
+  "version": "1.0.0",
+  "description": "This will be my final profile for U of U",
+  "main": "script.js",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sequelize": "^5.21.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rjbovee112/Final-Profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rjbovee112/Final-Profile/issues"
+  },
+  "homepage": "https://github.com/Rjbovee112/Final-Profile#readme"
+}
